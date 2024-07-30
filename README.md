@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/CipherVortex/CipherVortex/main/assets/profile-coder.png" alt="Coder Image" width="200" />
+  <img src="https://raw.githubusercontent.com/CipherVortex/CipherVortex/main/assets/profile.jpg" alt="Coder Image" width="200" />
 </p>
 
 <h2 align="left">A Passionate Frontend Developer from India</h2>
