@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Redux**
 
-- 👨‍💻 All of my projects are available at [https://github.com/CipherVortex](https://github.com/CipherVortex)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/CipherVortex?tab=repositories)
 
 - 💬 Ask me about **React and Web Designing**
 
